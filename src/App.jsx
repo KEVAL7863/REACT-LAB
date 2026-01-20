@@ -8,13 +8,14 @@ import Registration from "./third/state_exercise"
 import Contactbook from "./contactbook"
 import PracticeExercise from "./practiceexersice"
 import Multipart from "./third/multipart"
-import hook from "./third/hook"
+import Hook1 from "./third/hook1"
+import Hook2 from "./third/hook2"
 function App() {
   return (
     <>
       <Firstclass />
       <CardComponent/>
-      <StateExample/><StringState/><RenderCond/><colorcond/><Registration/><Contactbook/><PracticeExercise/><Multipart/><hook/>
+      <StateExample/><StringState/><RenderCond/><colorcond/><Registration/><Contactbook/><PracticeExercise/><Multipart/><Hook1/><Hook2/>
     </>
   )
 }
