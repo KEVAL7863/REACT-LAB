@@ -10,12 +10,13 @@ import PracticeExercise from "./practiceexersice"
 import Multipart from "./third/multipart"
 import Hook1 from "./third/hook1"
 import Hook2 from "./third/hook2"
+import UseState3 from "./third/usestate3"
 function App() {
   return (
     <>
       <Firstclass />
       <CardComponent/>
-      <StateExample/><StringState/><RenderCond/><colorcond/><Registration/><Contactbook/><PracticeExercise/><Multipart/><Hook1/><Hook2/>
+      <StateExample/><StringState/><RenderCond/><colorcond/><Registration/><Contactbook/><PracticeExercise/><Multipart/><Hook1/><Hook2/><UseState3/>
     </>
   )
 }
