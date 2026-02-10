@@ -11,6 +11,7 @@ import Multipart from "./third/multipart"
 import Hook1 from "./third/hook1"
 import Hook2 from "./third/hook2"
 import UseState3 from "./third/usestate3"
+// import Hook3 from "./third/hook3"
 function App() {
   return (
     <>

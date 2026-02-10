@@ -12,8 +12,15 @@
 
 
 
-import React, {Component} from "react";
+// import React, { useState } from "react";
 
-class StateExercise extends Component {
-    
-}
+// // Simple, man-made registration form using hooks
+// export default function RegistrationForm() {
+
+//   const [name, setname] = useState(""){
+//     const[b1, setName] =
+
+//   }
+// }
+
+   
